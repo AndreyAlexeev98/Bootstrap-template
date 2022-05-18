@@ -1,0 +1,18 @@
+.carousel {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.carousel-indicators {
+  top: 110%;
+}
+
+.carousel-indicators li {
+  background-color: #808080 !important;
+}
+
+@media screen and (max-width: 768px) {
+  .carousel {
+    margin-bottom: 125px;
+  }
+}

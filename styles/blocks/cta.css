@@ -1,0 +1,30 @@
+.cta {
+  background: linear-gradient(rgba(2,2,2,0.5), rgba(2,2,2,0.8)), url(/images/bg-hero.jpg) fixed center center;
+  padding: 80px 0;
+  color: #fff;
+}
+
+.cta h3 {
+  font-weight: 700;
+  font-size: 28px;
+} 
+
+.cta-btn {
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 20px;
+  border: 2px solid #fff;
+  border-radius: 4px;
+  color: #fff;
+  margin-top: 10px;
+  transition: all .3s;
+}
+
+.cta-btn:hover {
+  background-color: #ffc451;
+  border-color: #ffc451;
+  color: #151515;
+  transition: all .3s;
+}

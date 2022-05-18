@@ -1,0 +1,25 @@
+.contacts .info .info-icon {
+  background-color: #ffc451;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  float: left;
+}
+
+.contacts .info h4,
+.contacts .info p {
+  padding: 0 0 0 60px;
+}
+
+.contacts .info h4 {
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.contacts .info p {
+  font-size: 14px;
+}
